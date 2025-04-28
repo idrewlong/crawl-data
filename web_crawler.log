@@ -1,0 +1,214 @@
+2025-04-27 20:16:32,068 - INFO - Successfully parsed robots.txt at https://www.luxurypresence.com/robots.txt
+2025-04-27 20:16:32,068 - INFO - Starting crawl from https://www.luxurypresence.com/ with max depth 3
+2025-04-27 20:16:32,068 - WARNING - Robots.txt disallows fetching https://www.luxurypresence.com/
+2025-04-27 20:16:32,068 - INFO - Completed depth 1. Visited 1 pages. Found 0 new URLs.
+2025-04-27 20:16:32,068 - INFO - Crawl complete. Visited 1 pages. Extracted data from 0 pages.
+2025-04-27 20:16:32,068 - WARNING - No data to export
+2025-04-27 20:17:32,309 - INFO - Successfully parsed robots.txt at https://www.luxurypresence.com/robots.txt
+2025-04-27 20:17:32,310 - INFO - Starting crawl from https://www.luxurypresence.com/ with max depth 3
+2025-04-27 20:17:32,310 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:32,310 - INFO - Fetching: https://www.luxurypresence.com/
+2025-04-27 20:17:33,997 - INFO - Completed depth 1. Visited 1 pages. Found 49 new URLs.
+2025-04-27 20:17:33,997 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:33,997 - INFO - Fetching: https://www.luxurypresence.com/real-estate-seo/
+2025-04-27 20:17:35,667 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:35,667 - INFO - Fetching: https://www.luxurypresence.com/reviews/
+2025-04-27 20:17:37,373 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:37,373 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-to-build-property-websites/
+2025-04-27 20:17:39,198 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:39,198 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/marketing/
+2025-04-27 20:17:40,975 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:40,975 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/content-marketing/
+2025-04-27 20:17:42,919 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:42,919 - INFO - Fetching: https://www.luxurypresence.com/blogs/retargeting-real-estate-marketing/
+2025-04-27 20:17:44,691 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:44,692 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/google-ads/
+2025-04-27 20:17:46,411 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:46,412 - INFO - Fetching: https://www.luxurypresence.com/case/how-gray-st-onge-excelled-as-a-boutique-brokerage/
+2025-04-27 20:17:48,124 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:48,124 - INFO - Fetching: https://www.luxurypresence.com/presentations/
+2025-04-27 20:17:49,830 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:49,830 - INFO - Fetching: https://www.luxurypresence.com/blogs/digital-marketing-lead-generation/
+2025-04-27 20:17:51,594 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:51,594 - INFO - Fetching: https://www.luxurypresence.com/privacy-policy/
+2025-04-27 20:17:53,372 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:53,372 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-to-create-a-strong-brand/
+2025-04-27 20:17:55,096 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:55,096 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/branding/
+2025-04-27 20:17:56,797 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:56,797 - INFO - Fetching: https://www.luxurypresence.com/get-started/
+2025-04-27 20:17:58,467 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:17:58,468 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-blog-ideas/
+2025-04-27 20:18:00,243 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:00,244 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/lead-generation/
+2025-04-27 20:18:02,311 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:02,311 - INFO - Fetching: https://www.luxurypresence.com/case/how-dawn-mckenna-tripled-her-team-and-launched-5-markets/
+2025-04-27 20:18:04,084 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:04,085 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/real-estate-social-media/
+2025-04-27 20:18:05,939 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:05,939 - INFO - Fetching: https://www.luxurypresence.com/real-estate-idx-search/
+2025-04-27 20:18:07,697 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:07,697 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/career/
+2025-04-27 20:18:09,448 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:09,448 - INFO - Fetching: https://www.luxurypresence.com/real-estate-marketing-platform/
+2025-04-27 20:18:11,202 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:11,202 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/real-estate-advertising/
+2025-04-27 20:18:13,046 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:13,046 - INFO - Fetching: https://www.luxurypresence.com/case/how-jade-mills-reigns-as-number1-global-agent-for-coldwell-banker/
+2025-04-27 20:18:14,827 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:14,827 - INFO - Fetching: https://www.luxurypresence.com/real-estate-website-design/
+2025-04-27 20:18:16,458 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:16,458 - INFO - Fetching: https://www.luxurypresence.com/real-estate-social-media-management/
+2025-04-27 20:18:18,212 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:18,212 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/property-websites/
+2025-04-27 20:18:19,985 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:19,985 - INFO - Fetching: https://www.luxurypresence.com/lead-gen-ads-landing-page/
+2025-04-27 20:18:21,746 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:21,746 - INFO - Fetching: https://www.luxurypresence.com/property-websites/
+2025-04-27 20:18:23,527 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:23,527 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/agent-website/
+2025-04-27 20:18:25,295 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:25,295 - INFO - Fetching: https://www.luxurypresence.com/real-estate-copy-writing/
+2025-04-27 20:18:27,070 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:27,070 - INFO - Fetching: https://www.luxurypresence.com/case-studies/
+2025-04-27 20:18:28,773 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:28,773 - INFO - Fetching: https://www.luxurypresence.com/blog/
+2025-04-27 20:18:30,531 - INFO - Completed depth 2. Visited 33 pages. Found 343 new URLs.
+2025-04-27 20:18:30,531 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:30,531 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/facebook-ads/
+2025-04-27 20:18:32,747 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:32,747 - INFO - Fetching: https://www.luxurypresence.com/blogs/clear-cooperation-policy-real-estate/
+2025-04-27 20:18:35,023 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:35,023 - INFO - Fetching: https://www.luxurypresence.com/blogs/landing-page-conversion/
+2025-04-27 20:18:36,749 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:36,749 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-to-build-a-brand-on-instagram-linkedin-beyond/
+2025-04-27 20:18:38,745 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:38,746 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-to-audit-your-real-estate-brand/
+2025-04-27 20:18:40,489 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:40,489 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-tech-stack-tools/
+2025-04-27 20:18:42,282 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:42,282 - INFO - Fetching: https://www.luxurypresence.com/blogs/turning-reviews-into-revenue-expert-google-business-profile-tips-from-holly-meyer-lucas/
+2025-04-27 20:18:44,002 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:44,002 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/landing-pages/
+2025-04-27 20:18:45,759 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:45,759 - INFO - Fetching: https://www.luxurypresence.com/blogs/visual-brand-identity-real-estate/
+2025-04-27 20:18:47,532 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:47,532 - INFO - Fetching: https://www.luxurypresence.com/cdn-cgi/l/email-protection
+2025-04-27 20:18:49,071 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:49,072 - INFO - Fetching: https://www.luxurypresence.com/blogs/templates-for-real-estate-mailers/
+2025-04-27 20:18:50,851 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:50,851 - INFO - Fetching: https://www.luxurypresence.com/blogs/category/lead-generation/
+2025-04-27 20:18:52,643 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:52,643 - INFO - Fetching: https://www.luxurypresence.com/blogs/personal-brand-statement-real-estate/
+2025-04-27 20:18:54,398 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:54,398 - INFO - Fetching: https://www.luxurypresence.com/blogs/most-profitable-real-estate-niches/
+2025-04-27 20:18:56,147 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:56,147 - INFO - Fetching: https://www.luxurypresence.com/blogs/brokerage-private-listing-network/
+2025-04-27 20:18:58,120 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:58,120 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-press-release/
+2025-04-27 20:18:59,891 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:18:59,891 - INFO - Fetching: https://www.luxurypresence.com/blogs/agent-image-vs-luxury-presence/
+2025-04-27 20:19:01,685 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:01,685 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-lead-magnets/
+2025-04-27 20:19:03,714 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:03,714 - INFO - Fetching: https://www.luxurypresence.com/blogs/luxury-presence-reviews/
+2025-04-27 20:19:05,525 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:05,525 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-thought-leadership/
+2025-04-27 20:19:07,309 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:07,309 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-agent-expenses-budget/
+2025-04-27 20:19:09,091 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:09,091 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/real-estate-advertising/page/2/
+2025-04-27 20:19:11,342 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:11,343 - INFO - Fetching: https://www.luxurypresence.com/blogs/create-google-business-profile/
+2025-04-27 20:19:13,095 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:13,095 - INFO - Fetching: https://www.luxurypresence.com/blog/page/2/
+2025-04-27 20:19:14,894 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:14,895 - INFO - Fetching: https://www.luxurypresence.com/case/local-life-realty-boosts-agent-recruitment-expansion-3-new-markets-11-months/
+2025-04-27 20:19:16,624 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:16,624 - INFO - Fetching: https://www.luxurypresence.com/blogs/google-top-ranking-factors-revealed/
+2025-04-27 20:19:18,370 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:18,370 - INFO - Fetching: https://www.luxurypresence.com/blogs/unique-selling-proposition/
+2025-04-27 20:19:20,107 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:20,107 - INFO - Fetching: https://www.luxurypresence.com/blogs/maximize-your-real-estate-ads-roi/
+2025-04-27 20:19:21,828 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:21,828 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-lead-generation-ideas/
+2025-04-27 20:19:23,568 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:23,568 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-agent-email-list/
+2025-04-27 20:19:25,344 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:25,345 - INFO - Fetching: https://www.luxurypresence.com/case/how-frontgate-real-estate-secured-6m-sale-lead-gen-ads-ai-lead-nurture-stellar-service/
+2025-04-27 20:19:27,249 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:27,249 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-to-ask-clients-for-reviews/
+2025-04-27 20:19:29,001 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:29,001 - INFO - Fetching: https://www.luxurypresence.com/blogs/google-ads-account-real-estate/
+2025-04-27 20:19:30,774 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:30,774 - INFO - Fetching: https://www.luxurypresence.com/case/how-we-helped-med-middleman-build-a-memorable-and-engaging-social-media-presence/
+2025-04-27 20:19:32,532 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:32,532 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-community-guide/
+2025-04-27 20:19:34,380 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:34,381 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-to-create-a-youtube-channel-real-estate/
+2025-04-27 20:19:36,293 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:36,293 - INFO - Fetching: https://www.luxurypresence.com/blogs/convert-leads-with-a-marketing-funnel/
+2025-04-27 20:19:38,311 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:38,311 - INFO - Fetching: https://www.luxurypresence.com/blogs/best-real-estate-logos/
+2025-04-27 20:19:39,973 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:39,973 - INFO - Fetching: https://www.luxurypresence.com/blogs/creating-a-real-estate-sales-funnel/
+2025-04-27 20:19:41,746 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:41,746 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/content-marketing/page/2/
+2025-04-27 20:19:43,867 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:43,867 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-referral-fees/
+2025-04-27 20:19:45,620 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:45,621 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-crm-lead-nurturing
+2025-04-27 20:19:48,348 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:48,349 - INFO - Fetching: https://www.luxurypresence.com/blogs/unique-value-proposition-real-estate/
+2025-04-27 20:19:50,128 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:50,129 - INFO - Fetching: https://www.luxurypresence.com/blogs/personal-branding-with-phillip-salem-and-malte-kramer/
+2025-04-27 20:19:51,977 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:51,977 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-email-marketing/
+2025-04-27 20:19:53,828 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:53,828 - INFO - Fetching: https://www.luxurypresence.com/blogs/webinar-brand-dawn-mckenna/
+2025-04-27 20:19:55,734 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:55,734 - INFO - Fetching: https://www.luxurypresence.com/blogs/perfect-real-estate-agent-website/
+2025-04-27 20:19:57,522 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:57,522 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/design/
+2025-04-27 20:19:59,278 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:19:59,278 - INFO - Fetching: https://www.luxurypresence.com/blogs/off-market-listing-platform-launch/
+2025-04-27 20:20:01,258 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:01,258 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-to-succeed-as-a-real-estate-agent/
+2025-04-27 20:20:03,297 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:03,297 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-content-writing/
+2025-04-27 20:20:05,165 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:05,166 - INFO - Fetching: https://www.luxurypresence.com/blogs/best-real-estate-conferences/
+2025-04-27 20:20:07,236 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:07,236 - INFO - Fetching: https://www.luxurypresence.com/blogs/target-audience-in-real-estate/
+2025-04-27 20:20:09,131 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:09,131 - INFO - Fetching: https://www.luxurypresence.com/case/serhant-and-luxury-presence/
+2025-04-27 20:20:10,895 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:10,895 - INFO - Fetching: https://www.luxurypresence.com/blogs/tag/ai/
+2025-04-27 20:20:12,652 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:12,653 - INFO - Fetching: https://www.luxurypresence.com/blogs/real-estate-customer-service/
+2025-04-27 20:20:14,377 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:14,377 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-to-build-a-strong-reputation-as-a-realtor/
+2025-04-27 20:20:16,361 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:16,361 - INFO - Fetching: https://www.luxurypresence.com/case/taylor-lucyk-1-5m-listing-lead-gen-ai-nurture/
+2025-04-27 20:20:18,096 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:18,096 - INFO - Fetching: https://www.luxurypresence.com/blogs/how-glennda-baker-made-over-one-million-dollars-from-social-media-videos/
+2025-04-27 20:20:20,133 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:20,133 - INFO - Fetching: https://www.luxurypresence.com/blogs/brand-fonts-real-estate-website/
+2025-04-27 20:20:22,023 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:22,024 - INFO - Fetching: https://www.luxurypresence.com/blogs/get-on-the-map-with-google-business-profiles/
+2025-04-27 20:20:24,024 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:24,025 - INFO - Fetching: https://www.luxurypresence.com/case/how-landmark-sothebys-attracts-and-retains-top-talent-with-on-brand-agent-websites/
+2025-04-27 20:20:25,794 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:25,794 - INFO - Fetching: https://www.luxurypresence.com/real-estate-advertising/
+2025-04-27 20:20:27,524 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:27,524 - INFO - Fetching: https://www.luxurypresence.com/blogs/agentfire-vs-luxury-presence/
+2025-04-27 20:20:29,307 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:29,308 - INFO - Fetching: https://www.luxurypresence.com/blogs/perfect-real-estate-headshots/
+2025-04-27 20:20:31,017 - INFO - Note: Bypassing robots.txt check for educational purposes
+2025-04-27 20:20:31,017 - INFO - Fetching: https://www.luxurypresence.com/blogs/ai-real-estate-webinar-buyers/
+2025-04-27 20:20:32,729 - INFO - Reached maximum number of pages (100)
+2025-04-27 20:20:32,729 - INFO - Completed depth 3. Visited 100 pages. Found 390 new URLs.
+2025-04-27 20:20:32,729 - INFO - Reached maximum number of pages (100)
+2025-04-27 20:20:32,729 - INFO - Completed depth 4. Visited 101 pages. Found 0 new URLs.
+2025-04-27 20:20:32,729 - INFO - Crawl complete. Visited 101 pages. Extracted data from 99 pages.
+2025-04-27 20:20:32,744 - INFO - Data exported to luxury_data.csv
